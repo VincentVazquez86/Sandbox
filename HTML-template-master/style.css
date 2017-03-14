@@ -1,4 +1,57 @@
 /*Removes default on the body-tag*/
+
 body{
     margin:0;
+    width:1000px;
+}
+header{
+  width: inherit;
+  height: 50px;
+  border: 2px green;
+  background-color: red;
+}
+
+section{
+  width: inherit;
+  height: 500px:auto;
+  border: 3px red;
+  background-color: yellow;
+}
+
+section{
+
+  width: inherit;
+  height: 600px:auto;
+  border: 0px;
+  background:-color: green;
+}
+
+article{
+  width: inherit;
+  height: 50%;
+  border: 0px;
+  background-color: red ;
+}
+
+
+div.small{
+  width: 4679px;
+  height: 189px;
+  border: 1px green;
+  background-color: blue;
+  float: right;
+}
+
+div.bottom{
+  height: 400px;
+  width: inherit;
+  border: 4px black;
+  blackground-color: red;
+}
+
+footer{
+  width: inherit;
+  height: 90px;
+  border: 3px green;
+  background-color: blue;
 }
